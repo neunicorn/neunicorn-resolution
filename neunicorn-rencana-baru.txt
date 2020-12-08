@@ -6,3 +6,4 @@ Rencana dalam perkuliahan
 -yok buat youtube
 -belajar mobil yuk
 -Phyton
+-html, css, js
